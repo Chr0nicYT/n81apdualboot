@@ -8,7 +8,6 @@ Tutorial available here: https://www.reddit.com/r/jailbreak/comments/63oxps/tuto
 # 
 # Current iOS Versions (NOT TESTED, PORTING)
 iOS 5.1.1:
-#
 No tutorial.
 
 # NOTE:

@@ -11,4 +11,4 @@ iOS 5.1.1:
 No tutorial.
 
 # NOTE:
-If this is illegal, someone tell me. I don't think this is illegal because according to Apple, posting files like this online is LEGAL as long as it doesn't patch the icloud activation lock thingy.
+NO ONE CARES IF THIS IS LEGAL OR NOT! RULES ARE MADE TO BE BROKEN
